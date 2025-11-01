@@ -43,7 +43,7 @@ const SettingsScreen = () => {
 
         <View style={{ flex: 1, backgroundColor: "white", paddingTop: "5%" }}>
           <WebView
-            source={{ uri: "https://capitek.xyz/fortunicafocus-policy" }}
+            source={{ uri: "https://github.com/olegk0409" }}
             style={{ flex: 1 }}
           />
         </View>

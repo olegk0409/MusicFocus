@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "FortunicaFocus",
-    "slug": "FortunicaFocus",
+    "name": "MusicFocus",
+    "slug": "MusicFocus",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
-    "scheme": "fortunicafocus",
+    "scheme": "musicfocus",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
